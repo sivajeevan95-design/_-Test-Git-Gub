@@ -1,4 +1,2 @@
 - whats happening
-- there
-
-``` this is a code
+- tthis is a code
